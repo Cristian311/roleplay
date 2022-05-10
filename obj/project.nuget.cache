@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "Em9WgmZa8HaKUnKEdUEWhupeKLoOqbmMJQ4jiI9DAOPShFfNFBk7jH6NwAhuMmhynOkrcmFnqycWpJ2Z6a4/5w==",
+  "success": true,
+  "projectFilePath": "C:\\RAGEMP\\server-files\\dotnet\\resources\\roleplay\\roleplay.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ROSE 21\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\ROSE 21\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\ROSE 21\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
